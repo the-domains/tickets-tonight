@@ -1,0 +1,28 @@
+name: Tickets Tonight
+favicon: null
+layout_spectrum: 0.912962960312143
+typography_spectrum: 0.49162114737555385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.40143088647164404
+  lightness: 0.43498827144503593
+  saturation: 0.5434904634021223
+  rhythmicContrast: 0.26926653692498803
+purpose: []
