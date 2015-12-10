@@ -2,6 +2,7 @@ name: Tickets Tonight
 favicon: null
 layout_spectrum: 0.912962960312143
 typography_spectrum: 0.49162114737555385
+title: Tickets Tonight
 cta:
   domain: null
   bucket: null
